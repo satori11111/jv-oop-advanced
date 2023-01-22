@@ -1,6 +1,6 @@
 package core.basesyntax;
 
-import lombok.AllArgsConstructor;
+
 
 
 public class Square extends Figure{

@@ -1,6 +1,6 @@
 package core.basesyntax;
 
-import lombok.ToString;
+
 
 
 public class Circle extends Figure {
